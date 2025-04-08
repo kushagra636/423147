@@ -1,0 +1,4 @@
+ID	Math	Science	English
+1	78	85	90
+2	82	80	88
+3	75	92	95

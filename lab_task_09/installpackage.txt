@@ -1,0 +1,17 @@
+Install requite packages using rpm/deb/apt
+
+https://unix.stackexchange.com/questions/665940/how-do-i-check-if-my-linux-is-deb-or-rpm
+
+https://eagleeyet.net/blog/faq/faq-what-is-the-difference-between-linux-rpm-deb-packages/
+
+https://linuxgenie.net/difference-between-linux-deb-vs-rpm/
+
+
+https://phoenixnap.com/kb/install-deb-files-ubuntu
+
+https://phoenixnap.com/kb/install-rpm-packages-on-ubuntu
+
+
+https://tutswiki.com/install-software-linux-yum-rpm-apt-dpkg/
+
+https://www.ibm.com/docs/en/linux-on-systems?topic=file-install-configure-rpm

@@ -1,0 +1,3 @@
+192.168.1.1 - - [17/Feb/2025:12:00:01] &quot;GET /index.html&quot;
+192.168.1.2 - - [17/Feb/2025:12:05:23] &quot;POST /login&quot;
+192.168.1.1 - - [17/Feb/2025:12:10:45] &quot;GET /dashboard&quot;

@@ -1,0 +1,2 @@
+03:34 1 WARNING warninig
+5:30 2 ERROR error

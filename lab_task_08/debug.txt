@@ -1,0 +1,19 @@
+Debug C program using gdp for core dumping
+
+
+https://betterexplained.com/articles/debugging-with-gdb/
+
+
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/developer_guide/debugging-crashed-application#debugging-crashed-application_inspect-crash-state-core-dump
+
+
+https://www.linuxquestions.org/questions/blog/rtmistler-575248/debugging-c-programs-using-gdb-including-core-dumps-36826/
+
+
+https://www.robopenguins.com/core-dumps/
+
+
+https://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
+
+
+https://cgi.cse.unsw.edu.au/~learn/debugging/modules/gdb_coredumps/
